@@ -8,6 +8,9 @@ header {
     background-color: rgb(138, 196, 218);
     width: 100%;
     padding: 30px 15px;
+    background-image: url(../img/pattern.png);
+    background-size: 50%;
+    background-position: center;
 }
 
 h1, h4, h5, p, ul {
