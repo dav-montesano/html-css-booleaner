@@ -1,0 +1,19 @@
+/* Reset of body margins to apply the header */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(138, 196, 218);
+    width: 100%;
+    padding: 30px 15px;
+}
+
+/* class applied to logo. height: auto works for respecting the ration of the pic */
+.logo-size {
+    width: 200px;
+    height: auto;
+}
+
+
